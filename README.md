@@ -1,0 +1,2 @@
+# pages
+Simple Django App
